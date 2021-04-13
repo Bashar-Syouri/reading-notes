@@ -167,7 +167,7 @@ Attributes provide additional information about the contents of an element. They
 
 - Here an attribute called lang is used to indicate the language used in this element. The value of this attribute on this page specifies it is in US English.
 
-#  Body, Title & Head #
+#  Body, Head & Title #
 
 ## <body> ##
 You met the <body> element in the first example we created. Everything inside this element is shown inside the main browser window.
