@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## - Chapter 18
 
 **Process & Design**
@@ -87,4 +88,6 @@ PROCESS & Design
  
 
  - You can use grouping and similarity to help simplify the information you present.
+=======
+>>>>>>> b1bbd5b97ff3fffe0a409fb5558aa3efb53877f4
 
