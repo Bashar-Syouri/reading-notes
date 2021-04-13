@@ -1,4 +1,4 @@
-# Welcome #
+# Welcome#
 
 ## - Chapter 18
 
@@ -136,9 +136,9 @@ Tags act like containers. They tell you something about the information that lie
 
 - **A Closer Look at tags**
 
- #### - Opening Tag <P>####
-- 
-  - The characters in the brackets 
+ - Opening Tag <P>
+
+   - The characters in the brackets 
 indicate the tag's purpose. 
    - For example, in the tags above 
 the p stands for paragraph.
@@ -146,8 +146,8 @@ the p stands for paragraph.
 slash after the the < symbol.
 
 
-#### - Closing Tag </P>####
-- 
+- Closing Tag </P>
+  
    - The terms "tag" and "element" 
 are often used interchangeably.
 
@@ -167,21 +167,23 @@ Attributes provide additional information about the contents of an element. They
 
 - Here an attribute called lang is used to indicate the language used in this element. The value of this attribute on this page specifies it is in US English.
 
-#  Body, Head & Titl #
+#  Body, Title & Head #
 
 ## <body> ##
 You met the <body> element in the first example we created. Everything inside this element is shown inside the main browser window.
 
-## <head> ##
-Before the <body> element you 
-will often see a <head> element. 
-This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a <title> element inside the <head> element.
-
-
-
 
 ## <title> ##
 The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
+
+
+## <head> ##
+Before the <body> element you will often see a <head> element. This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a <title> element inside the <head> element.
+
+
+
+
+
 
 &copy; 2021
 
