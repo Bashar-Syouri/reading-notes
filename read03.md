@@ -1,4 +1,5 @@
-**Chapter 18**
+## - Chapter 18
+
 **Process & Design**
 
 This section discusses a process that you can use when you are creating a new website.
@@ -84,4 +85,6 @@ PROCESS & Design
 
 - You can differentiate between pieces of information using size, color, and style. 
  
+
  - You can use grouping and similarity to help simplify the information you present.
+
