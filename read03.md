@@ -78,6 +78,8 @@ Attributes provide additional information about the contents of an element. They
 
 - Here an attribute called lang is used to indicate the language used in this element. The value of this attribute on this page specifies it is in US English.
 
+---------------
+
 #  Body, Head & Title #
 ![body, head & title](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/07/html-images-df.jpg)
 ## <body> ##
