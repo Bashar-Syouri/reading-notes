@@ -1,5 +1,17 @@
-# reading-notes
-## Header
+# Welcome to my reading-notes
+
+
+### my name is bashar, nice to have u here 
+
+
+## table of content ^.^ 
+
+| Reading Topic       | live URLs     | 
+| :------------- | :----------: |
+|  read01 |[link](https://bashar-syouri.github.io/reading-notes/Read01)   | 
+| read02   | [link](https://bashar-syouri.github.io/reading-notes/read02) | 
+| read03   | [link]() |
+
 
 
 ![Growth Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
