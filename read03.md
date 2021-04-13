@@ -1,8 +1,151 @@
 #  Welcome  #
 ![HTML](https://elzero.org/wp-content/uploads/2019/06/learn-html4.png)
+
+
+
+
+## - Chapter 1 ##
+
+**STRUCTURE**
+
+![structure](https://slideplayer.com/15204885/92/images/slide_2.jpg)
+
+#### We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues... the list goes on. ####
+
+#### Many web pages act like electronic versions of these documents. For example, newspapers show the same stories in print as they do on websites; you can apply for insurance over the web; and stores have online catalogs and e-commerce facilities. ####
+
+In all kinds of documents, structure is very important in helping readers to understand the messages you are trying to convey and to navigate around the document. So, in order to learn how to write web pages, it is very important to understand how to structure documents. In this chapter you will:
+
+● See how HTML describes the structure of a web page
+● Learn how tags or elements are added to your document
+● Write your first web page
+
+
+
+## How Pages Use Structure ##
+
+
+- Think about the stories you read in a newspaper: for each story, there will be a headline, some text, and possibly some images. If the article is a long piece, there may be subheadings that split the story into separate sections or quotes from those involved. Structure helps readers understand the stories in the newspaper.
+
+- The structure is very similar when a news story is viewed online (although it may also feature audio or video). This is illustrated on the right with a copy of a newspaper alongside the corresponding article on its website.
+
+- Now think about a very different type of document — an insurance form. Insurance forms often have headings for different sections, and each section contains a list of questions with areas for you to fill in details or checkboxes to tick. Again, the structure is very similar online.
+
+
+### HTML Uses Elements to Describe the Structure of Pages ###
+
+
+There are several different elements. Each element has an opening tag and a closing tag.
+
+**Tags**
+
+
+Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
+
+- **A Closer Look at tags**
+
+![opening and closing tags](https://res.cloudinary.com/zheisey/image/upload/f_auto/v1573769310/zac-heisey.com/lessons/html-element-syntax.jpg)
+
+ - Opening Tag <P>
+
+   - The characters in the brackets 
+indicate the tag's purpose. 
+   - For example, in the tags above 
+the p stands for paragraph.
+  - The closing tag has a forward 
+slash after the the < symbol.
+
+
+- Closing Tag </P>
+  
+   - The terms "tag" and "element" 
+are often used interchangeably.
+
+  - Strictly speaking, however, an element comprises the opening.
+  
+
+- tag and the closing tag and any  content that lies between them.
+
+
+### Attributes Tell Us More About Elements ###
+
+Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
+
+- The attribute name indicates what kind of extra information you are supplying about the element's content. It should be written in lowercase.
+
+- The value is the information or setting for the attribute. It should be placed in double quotes. Different attributes can have different values.
+
+- Here an attribute called lang is used to indicate the language used in this element. The value of this attribute on this page specifies it is in US English.
+
+#  Body, Head & Title #
+![body, head & title](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/07/html-images-df.jpg)
+## <body> ##
+You met the <body> element in the first example we created. Everything inside this element is shown inside the main browser window.
+
+
+
+ ## <head> ##
+ Before the < body > element you will often see a < head > element. This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a < title > element inside the < head > element.
+
+## <title> ##
+The contents of the < title > element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
+
+
+
+---------------------------------------
+
+
+
+
+## - Chapter 8 ## 
+
+**Extra Markup**
+
+#### At this point, we have covered the main tags that fit nicely into groups and sections. ####
+
+##### - In this chapter, we will focus on some helpful topics that are not easily grouped together. You will learn about: #####
+
+
+ - The different versions of HTML and how to indicate which version you are using
+
+  -  How to add comments to your code
+
+  - Global attributes, which are attributes that can be used on any element, including the class and id attributes 
+
+ -Elements that are used to group together parts of the page where no other element is suitable
+
+- How to embed a page within a page using iframes
+
+- How to add information about the web page using the <meta> element
+
+- Adding characters such as angled brackets and copyright 
+symbols
+
+
+## Block Elements & Inline Elements ##
+
+![block and inline elements](https://ictacademy.com.ng/wp-content/uploads/2017/10/inline-block-and-positioning-in-css-4-638.jpg)
+
+** Block Elements **
+
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
+
+Examples of block elements are 
+<h1>, <p>, <ul>, and <li>
+
+
+---
+** Inline Elements **
+
+Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
+
+-----------------------------------------
+
 ## - Chapter 18
 
 **Process & Design**
+
+![process & design](https://www.mypsdtohtml.com/assets/img/responsive_flow.png)
 
 This section discusses a process that you can use when you are creating a new website.
 
@@ -94,95 +237,7 @@ PROCESS & Design
 
 ---------------------------------------
 
-
-
-
-## - Chapter 1 ##
-
-**STRUCTURE**
-
-
-#### We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues... the list goes on. ####
-
-#### Many web pages act like electronic versions of these documents. For example, newspapers show the same stories in print as they do on websites; you can apply for insurance over the web; and stores have online catalogs and e-commerce facilities. ####
-
-In all kinds of documents, structure is very important in helping readers to understand the messages you are trying to convey and to navigate around the document. So, in order to learn how to write web pages, it is very important to understand how to structure documents. In this chapter you will:
-
-● See how HTML describes the structure of a web page
-● Learn how tags or elements are added to your document
-● Write your first web page
-
-
-
-## How Pages Use Structure ##
-
-
-- Think about the stories you read in a newspaper: for each story, there will be a headline, some text, and possibly some images. If the article is a long piece, there may be subheadings that split the story into separate sections or quotes from those involved. Structure helps readers understand the stories in the newspaper.
-
-- The structure is very similar when a news story is viewed online (although it may also feature audio or video). This is illustrated on the right with a copy of a newspaper alongside the corresponding article on its website.
-
-- Now think about a very different type of document — an insurance form. Insurance forms often have headings for different sections, and each section contains a list of questions with areas for you to fill in details or checkboxes to tick. Again, the structure is very similar online.
-
-
-### HTML Uses Elements to Describe the Structure of Pages ###
-
-
-There are several different elements. Each element has an opening tag and a closing tag.
-
-**Tags**
-
-
-Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
-
-- **A Closer Look at tags**
-
- - Opening Tag <P>
-
-   - The characters in the brackets 
-indicate the tag's purpose. 
-   - For example, in the tags above 
-the p stands for paragraph.
-  - The closing tag has a forward 
-slash after the the < symbol.
-
-
-- Closing Tag </P>
-  
-   - The terms "tag" and "element" 
-are often used interchangeably.
-
-  - Strictly speaking, however, an element comprises the opening.
-  
-
-- tag and the closing tag and any  content that lies between them.
-
-
-### Attributes Tell Us More About Elements ###
-
-Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
-
-- The attribute name indicates what kind of extra information you are supplying about the element's content. It should be written in lowercase.
-
-- The value is the information or setting for the attribute. It should be placed in double quotes. Different attributes can have different values.
-
-- Here an attribute called lang is used to indicate the language used in this element. The value of this attribute on this page specifies it is in US English.
-
-#  Body, Head & Title #
-
-## <body> ##
-You met the <body> element in the first example we created. Everything inside this element is shown inside the main browser window.
-
-
-
- ## < head > ##
-Before the < body > element you will often see a < head > element. This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a < title > element inside the < head > element.
-
-## <title> ##
-The contents of the < title > element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
-
-
-
-
+** &rdquo;To Learn More Visit  (https://wtf.tw/ref/duckett.pdf) &rdquo; **
 
 
 &copy; 2021
