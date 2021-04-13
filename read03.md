@@ -91,14 +91,14 @@ You met the <body> element in the first example we created. Everything inside th
 ## <title> ##
 The contents of the < title > element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
 
-
-
----------------------------------------
-
+-----------------------------------
 
 
 
 ## - Chapter 8 ## 
+
+
+![extra markup](https://slideplayer.com/12052645/69/images/slide_1.jpg)
 
 **Extra Markup**
 
@@ -139,13 +139,20 @@ Examples of block elements are
 
 ** Inline Elements **
 
-Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
+Some elements will always 
+appear to continue on the 
+same line as their neighbouring 
+elements. These are known as 
+inline elements.
+
+Examples of inline elements are 
+<a>, <b>, <em>, and <img>
 
 
 
 
 
----------------------------------------
+-----------------------------------
 
 
 
