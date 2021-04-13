@@ -97,15 +97,14 @@ PROCESS & Design
 
 
 
-## - Chapter 1
+## - Chapter 1 ##
 
-** STRUCTURE **
+**STRUCTURE**
 
 
 #### We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues... the list goes on. ####
 
-
-###### Many web pages act like electronic versions of these documents. For example, newspapers show the same stories in print as they do on websites; you can apply for insurance over the web; and stores have online catalogs and e-commerce facilities.###### 
+#### Many web pages act like electronic versions of these documents. For example, newspapers show the same stories in print as they do on websites; you can apply for insurance over the web; and stores have online catalogs and e-commerce facilities. ####
 
 In all kinds of documents, structure is very important in helping readers to understand the messages you are trying to convey and to navigate around the document. So, in order to learn how to write web pages, it is very important to understand how to structure documents. In this chapter you will:
 
@@ -130,12 +129,14 @@ In all kinds of documents, structure is very important in helping readers to und
 
 There are several different elements. Each element has an opening tag and a closing tag.
 
-** Tags **
+**Tags**
+
+
 Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 
 - **A Closer Look at tags**
 
- #### - Opening Tag ** < P > ** ####
+ #### - Opening Tag <P>####
 - 
   - The characters in the brackets 
 indicate the tag's purpose. 
@@ -145,7 +146,7 @@ the p stands for paragraph.
 slash after the the < symbol.
 
 
-#### - Closing Tag ** < /P > ** ####
+#### - Closing Tag </P>####
 - 
    - The terms "tag" and "element" 
 are often used interchangeably.
@@ -175,6 +176,9 @@ You met the <body> element in the first example we created. Everything inside th
 Before the <body> element you 
 will often see a <head> element. 
 This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a <title> element inside the <head> element.
+
+
+
 
 ## <title> ##
 The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
