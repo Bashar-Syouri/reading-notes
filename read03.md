@@ -249,8 +249,5 @@ PROCESS & Design
 ** &rdquo;To Learn More Visit  (https://wtf.tw/ref/duckett.pdf) &rdquo; **
 
 
-<<<<<<< HEAD
-&copy; HTML. 2021
-=======
-&copy; HTML 2021
->>>>>>> 9dbd6cbba3fb9288fe06d9bd178c7bb8d6f26f76
+
+&copy; HTML 2021.
