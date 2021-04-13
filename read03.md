@@ -1,4 +1,4 @@
-# Welcome #
+# Welcome#
 
 ## - Chapter 18
 
@@ -167,10 +167,15 @@ Attributes provide additional information about the contents of an element. They
 
 - Here an attribute called lang is used to indicate the language used in this element. The value of this attribute on this page specifies it is in US English.
 
-#  Body, Head & Titl #
+#  Body, Title & Head #
 
 ## <body> ##
 You met the <body> element in the first example we created. Everything inside this element is shown inside the main browser window.
+
+
+## <title> ##
+The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
+
 
 ## <head> ##
 Before the <body> element you 
@@ -180,8 +185,7 @@ This contains information about the page (rather than information that is shown 
 
 
 
-## <title> ##
-The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
+
 
 &copy; 2021
 
