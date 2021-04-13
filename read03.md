@@ -143,8 +143,8 @@ Some elements will always appear to continue on the same line as their neighbour
 
 
 
------------------------------------------
 
+---------------------------------------
 
 
 
@@ -248,4 +248,4 @@ PROCESS & Design
 ** &rdquo;To Learn More Visit  (https://wtf.tw/ref/duckett.pdf) &rdquo; **
 
 
-&copy; 2021
+&copy; HTML 2021
