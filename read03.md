@@ -15,7 +15,7 @@
 #### Many web pages act like electronic versions of these documents. For example, newspapers show the same stories in print as they do on websites; you can apply for insurance over the web; and stores have online catalogs and e-commerce facilities. ####
 
 
-In all kinds of documents, structure is very important in helping readers to understand the messages you are trying to convey and to navigate around the document. So, in order to learn how to write web pages, it is very important to understand how to structure documents. In this chapter you will:
+In all kinds of documents, structure is very important in helping readers to understand the messages you are trying to convey and to navigate around the document. So, in order to learn how to write web pages, it is very important to understand how to structure documents. In this chapter you will:-
 
 ● See how HTML describes the structure of a web page
 ● Learn how tags or elements are added to your document
@@ -249,4 +249,8 @@ PROCESS & Design
 ** &rdquo;To Learn More Visit  (https://wtf.tw/ref/duckett.pdf) &rdquo; **
 
 
+<<<<<<< HEAD
 &copy; HTML. 2021
+=======
+&copy; HTML 2021
+>>>>>>> 9dbd6cbba3fb9288fe06d9bd178c7bb8d6f26f76
