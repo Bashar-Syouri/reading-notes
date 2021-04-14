@@ -1,4 +1,4 @@
-## Read: 04a - Dynamic web pages with Javascript 
+# Read: 04a - Dynamic web pages with Javascript 
 
 
 ## Javascript
@@ -12,7 +12,7 @@
 
 --------------------------------
 
-## HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER
+### HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER
 
 ** Before diving into the JavaScript language, you need to know how it will fit together with the HTML and CSS in your web pages.**
 
@@ -46,4 +46,4 @@ This is where we can change how the page behaves, adding interactivity. We will 
 **To read more you can visit**
  [Link](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01TTSXQT5M/javascript_and_jquery_interactive_jon_du.pdf?c=1618423692-21b29523d81fd117)
 
- &copy Bashar-Syouri 2021.
+ &copy; Bashar-Syouri 2021.
