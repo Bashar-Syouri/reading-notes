@@ -1,6 +1,8 @@
 
 # Welcome #
 
+![how computer work](https://technology.pppst.com/banner_how_computers_work.gif)
+
 Here will we learn something about :-
 
 **How Computer Work**
