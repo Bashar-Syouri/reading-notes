@@ -19,7 +19,7 @@
 
 This is where the content of the page lives. The HTML gives the page structure and adds semantics. 
 
-- Where possible, aim to keep the three languages in separate files, with the HTML page linking to CSS and JavaScript files.
+- Where possible,  aim to keep the three languages in separate files, with the HTML page linking to CSS and JavaScript files.
 
 ![css](https://kariselovuo.pro/ksprov1/wp-content/uploads/2018/02/css-logo.png)
 
