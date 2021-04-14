@@ -3,16 +3,11 @@
 
 ### Javascript
 
-**Javascript**
-
-
-![Javascript](https://cdn.neow.in/news/images/uploaded/2018/12/1544525547_javascript_jquery_story.jpg)
-
-#### How DO I WRITE A SCRIPT FOR A WEB PAGES ? 
 
 
 
-### HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER
+![Javascript](https://cdn.neow.in/news/images/uploaded/2018/12/1544525547_javascript_jquery_story.jpg) 
+
 
 
 --------------------------------
@@ -48,6 +43,7 @@ Each layer, from left to right. builds on the previous one.
 This is where we can change how the page behaves, adding interactivity. We will aim to keep as much of our JavaScript as possible in separate files.
 
 
-**To read more you can visit** [Link](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01TTSXQT5M/javascript_and_jquery_interactive_jon_du.pdf?c=1618423692-21b29523d81fd117)
+**To read more you can visit**
+ [Link](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01TTSXQT5M/javascript_and_jquery_interactive_jon_du.pdf?c=1618423692-21b29523d81fd117)
 
-&copy  Bashar-Syouri 2021
+ &copy Bashar-Syouri 2021.
