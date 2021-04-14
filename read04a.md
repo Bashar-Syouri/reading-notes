@@ -1,6 +1,6 @@
 ## Read: 04a - Dynamic web pages with Javascript ##
 
-** Javascript **
+**Javascript**
 
 
 ![Javascript](https://cdn.neow.in/news/images/uploaded/2018/12/1544525547_javascript_jquery_story.jpg)
@@ -8,7 +8,7 @@
 #### How DO I WRITE A SCRIPT FOR A WEB PAGES ? ####
 
 
-** HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER **
+**HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER**
 
 #### Before diving into the JavaScript language, you need to know how it will fit together with the HTML and CSS in your web pages. ####
 
