@@ -1,18 +1,18 @@
-#  Welcome  #
+#  Welcome  
 ![HTML](https://elzero.org/wp-content/uploads/2019/06/learn-html4.png)
 
 
 
 
-## - Chapter 1 ##
+## - Chapter 1 
 
 **STRUCTURE**
 
 ![structure](https://slideplayer.com/15204885/92/images/slide_2.jpg)
 
-#### We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues... the list goes on. ####
+#### We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues... the list goes on.
 
-#### Many web pages act like electronic versions of these documents. For example, newspapers show the same stories in print as they do on websites; you can apply for insurance over the web; and stores have online catalogs and e-commerce facilities. ####
+#### Many web pages act like electronic versions of these documents. For example, newspapers show the same stories in print as they do on websites; you can apply for insurance over the web; and stores have online catalogs and e-commerce facilities. 
 
 
 In all kinds of documents, structure is very important in helping readers to understand the messages you are trying to convey and to navigate around the document. So, in order to learn how to write web pages, it is very important to understand how to structure documents. In this chapter you will:-
@@ -23,7 +23,7 @@ In all kinds of documents, structure is very important in helping readers to und
 
 
 
-## How Pages Use Structure ##
+## How Pages Use Structure 
 
 
 - Think about the stories you read in a newspaper: for each story, there will be a headline, some text, and possibly some images. If the article is a long piece, there may be subheadings that split the story into separate sections or quotes from those involved. Structure helps readers understand the stories in the newspaper.
@@ -33,7 +33,7 @@ In all kinds of documents, structure is very important in helping readers to und
 - Now think about a very different type of document — an insurance form. Insurance forms often have headings for different sections, and each section contains a list of questions with areas for you to fill in details or checkboxes to tick. Again, the structure is very similar online.
 
 
-### HTML Uses Elements to Describe the Structure of Pages ###
+### HTML Uses Elements to Describe the Structure of Pages 
 
 
 There are several different elements. Each element has an opening tag and a closing tag.
@@ -80,33 +80,33 @@ Attributes provide additional information about the contents of an element. They
 
 ---------------
 
-#  Body, Head & Title #
+#  Body, Head & Title 
 ![body, head & title](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/07/html-images-df.jpg)
-## <body> ##
+## <body> 
 You met the <body> element in the first example we created. Everything inside this element is shown inside the main browser window.
 
 
 
- ## <head> ##
+ ## <head> 
  Before the < body > element you will often see a < head > element. This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a < title > element inside the < head > element.
 
-## <title> ##
+## <title> 
 The contents of the < title > element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
 
 -----------------------------------
 
 
 
-## - Chapter 8 ## 
+## - Chapter 8 
 
 
 ![extra markup](https://slideplayer.com/12052645/69/images/slide_1.jpg)
 
 **Extra Markup**
 
-#### At this point, we have covered the main tags that fit nicely into groups and sections. ####
+#### At this point, we have covered the main tags that fit nicely into groups and sections. 
 
-##### - In this chapter, we will focus on some helpful topics that are not easily grouped together. You will learn about: #####
+##### - In this chapter, we will focus on some helpful topics that are not easily grouped together. You will learn about:
 
 
  - The different versions of HTML and how to indicate which version you are using
@@ -125,7 +125,7 @@ The contents of the < title > element are either shown in the top of the browser
 symbols
 
 
-## Block Elements & Inline Elements ##
+## Block Elements & Inline Elements 
 
 ![block and inline elements](https://ictacademy.com.ng/wp-content/uploads/2017/10/inline-block-and-positioning-in-css-4-638.jpg)
 
