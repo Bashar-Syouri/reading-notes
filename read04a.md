@@ -48,6 +48,6 @@ Each layer, from left to right. builds on the previous one.
 This is where we can change how the page behaves, adding interactivity. We will aim to keep as much of our JavaScript as possible in separate files.
 
 
-** To read more you can visit  ** [Link](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01TTSXQT5M/javascript_and_jquery_interactive_jon_du.pdf?c=1618423692-21b29523d81fd117)
+**To read more you can visit** [Link](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01TTSXQT5M/javascript_and_jquery_interactive_jon_du.pdf?c=1618423692-21b29523d81fd117)
 
-&copy Bashar-Syouri 2021
+&copy  Bashar-Syouri 2021
