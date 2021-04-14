@@ -24,3 +24,8 @@ Here will we learn something about :-
 
 - How Computers Work: Hardware and Software [Link](https://www.youtube.com/watch?v=xnyFYiK2rSY&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=6)
 
+------
+
+
+
+&copy Basahar Syouri 2021
