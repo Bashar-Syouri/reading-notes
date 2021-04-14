@@ -8,7 +8,7 @@
 
 | Reading Topic       | live URLs     | 
 | :------------- | :----------: |
-|  read01 |[link](https://bashar-syouri.github.io/reading-notes/Read01)   | 
+|  read01 |[link](Read01.md)
 | read02   | [link](https://bashar-syouri.github.io/reading-notes/read02) | 
 | read03   | [link](https://bashar-syouri.github.io/reading-notes/read03) |read04a  |[link](read04a.md)
 
