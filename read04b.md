@@ -3,7 +3,7 @@
 
 ![how computer work](https://technology.pppst.com/banner_how_computers_work.gif)
 
-Here will we learn something about :-
+## Here will we learn something about :-
 
 **How Computer Work**
 
@@ -26,8 +26,7 @@ Here will we learn something about :-
 
 - How Computers Work: Hardware and Software [Link](https://www.youtube.com/watch?v=xnyFYiK2rSY&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=6)
 
-------
 
 
 
-&copy Basahar Syouri 2021
+&copy  Basahar Syouri 2021
