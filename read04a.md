@@ -14,7 +14,7 @@
 
 ### HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER
 
-** Before diving into the JavaScript language, you need to know how it will fit together with the HTML and CSS in your web pages.**
+**Before diving into the JavaScript language, you need to know how it will fit together with the HTML and CSS in your web pages.**
 
 - Web developers usually talk about three languages that are used to create web pages: HTML, CSS, and JavaScript. 
 
