@@ -25,4 +25,4 @@
 - How Computers Work: Hardware and Software [Link](https://www.youtube.com/watch?v=xnyFYiK2rSY&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=6)
 
 ---
-&copy;Bashar-Syouri 2021
+&copy; Bashar-Syouri 2021.
