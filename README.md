@@ -11,8 +11,10 @@
 |  read01 |[link](https://bashar-syouri.github.io/reading-notes/Read01)   | 
 | read02   | [link](https://bashar-syouri.github.io/reading-notes/read02) | 
 | read03   | [link](https://bashar-syouri.github.io/reading-notes/read03)
-   | 
+ | 
 | read04a   | [link](https://bashar-syouri.github.io/reading-notes/read04a) |
+ |
+| read04b   | [link](https://bashar-syouri.github.io/reading-notes/read04b) |
 
 
 
