@@ -57,10 +57,10 @@ Comparison and **Logical** operators are used to test for *true* or *false*.   L
 ![Logical operations](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-Operator.png)
 
 
-To learn more visit [Link](https://simplesnippets.tech/operators-in-javascript-programming/)
+- To learn more visit [Link](https://simplesnippets.tech/operators-in-javascript-programming/)
 
   **Or** 
 
-  Watch it on YouTube [Link](https://www.youtube.com/watch?v=ULNJSTSJc7s&t=1s)
+  - Watch it on YouTube [Link](https://www.youtube.com/watch?v=ULNJSTSJc7s&t=1s)
 
   Copyright &copy; 2021 Simple Snippets. All rights reserved.
