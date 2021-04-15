@@ -13,8 +13,11 @@
 | read03   | [link](https://bashar-syouri.github.io/reading-notes/read03) | 
 | read04a   | [link](https://bashar-syouri.github.io/reading-notes/read04a) |                 
 | read04b   | [link](https://bashar-syouri.github.io/reading-notes/read04b) |
+|  read05 |[link](https://bashar-syouri.github.io/reading-notes/read05)   | 
 
 ![Growth Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
+
+
 
 ##### Growth Mindset
 
