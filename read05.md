@@ -29,7 +29,7 @@
 
 ### JavaScript Comparison Operators 
 
-**Comparison and Logical** operators are used to test for *true* or *false*. 
+**Comparison** and Logical operators are used to test for *true* or *false*. 
 
 
 ![comparison Operators](https://d14nx13ylsx7x8.cloudfront.net/lesson_images/images/000/002/883/original/temp1425330416.png)
@@ -37,7 +37,7 @@
 
 **Example:-**
 
-if (age < 18) text = "Too young";
+- if (age < 18) text = "Too young";
 var voteable = (age < 18) ? "Too young":"Old enough"; // ternary operator
 
   ' if -else example
@@ -49,3 +49,9 @@ if (isNaN(age)) {
 } '
 
 
+
+
+### JavaScript Logical (or Relational) Operators 
+
+Comparison and **Logical** operators are used to test for *true* or *false*.   Logical operators are used to determine the logic between variables or values.
+![Logical operations](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-Operator.png)
