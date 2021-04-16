@@ -86,8 +86,8 @@ You met the < body > element in the first example we created. Everything inside 
 
 
 
- ## < head > 
- Before the < body > element you will often see a < head > element. This contains information about the page ( rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page ). You will usually find a < title > element inside the < head > element.
+## < head > 
+Before the < body > element you will often see a < head > element. This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a < title > element inside the < head > element.
 
 ## < title > 
 The contents of the < title > element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
