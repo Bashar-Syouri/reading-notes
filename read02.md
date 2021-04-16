@@ -94,15 +94,14 @@ The simplest method for installing Git on a Mac (for Mavericks 10.9 and above) i
 
 You can also download Git by visiting this link and following the posted directions:
 
-(http://git-scm.com/download/mac)
+[Link](http://git-scm.com/download/mac)
 
 ### *GitHub*
 
 A third option is to install Git as part of the GitHub for Mac install. GitHub is repository hosting service, which we will discuss in a future section.
 
-Download GitHub for Mac via the following link:
-
-(http://mac.github.com)
+Download GitHub for Mac via the following : 
+[Link](http://mac.github.com)
 
 
 
@@ -111,13 +110,13 @@ Download GitHub for Mac via the following link:
 
 You can download Git by visiting this link and following the posted directions:
 
-(http://git-scm.com/download/win)
+[Link](http://git-scm.com/download/win)
 
 ### *GitHub*
 
 Install Git as part of the GitHub for Windows install.
 
-(http://windows.github.com)
+[Link](http://windows.github.com)
 
 
 
@@ -129,8 +128,11 @@ The local Git repository has three components:
 
 
 1. Working Directory: The actual files reside here
+
 2.  Index: The area used for staging
+
 3.  Head: Points to the most recent commit
+
 ![](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
 
 ### Saving Changes
@@ -145,11 +147,12 @@ Tracked files can be modified, unmodified, or staged; they were part of the most
 Untracked files were not in the last snapshot and do not currently reside in the staging area.
 
 
-*After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
+* After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
 
 
 
-##### For more details visit: [https://blog.udemy.com/git-tutorial-a-comprehensive-guide/]
+### For more details visit: 
+[Link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 
 
