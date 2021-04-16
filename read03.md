@@ -81,13 +81,16 @@ Attributes provide additional information about the contents of an element. They
 
 #  Body, Head & Title 
 ![body, head & title](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/07/html-images-df.jpg)
+
+
+
 ## < body > 
 You met the < body > element in the first example we created. Everything inside this element is shown inside the main browser window.
 
 
 
- ## < head > 
- Before the < body > element you will often see a < head > element. This contains information about the page ( rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page ). You will usually find a < title > element inside the < head > element.
+## < head > 
+Before the < body > element you will often see a < head > element. This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a < title > element inside the < head > element.
 
 ## < title > 
 The contents of the < title > element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
@@ -137,11 +140,7 @@ Some elements will always appear to start on a new line in the browser window. T
 
 **Inline Elements**
 
-Some elements will always 
-appear to continue on the 
-same line as their neighbouring 
-elements. These are known as 
-inline elements.
+Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 
 ---------
 
@@ -186,22 +185,35 @@ Even if the site has a wide appeal, you can still think about the demographics o
 **Target Audience: individuals**
 
 ● What is the age range of your target audience?
+
 ● Will your site appeal to more women or men? What is the mix?
+
 ● Which country do your visitors live in?
+
 ● Do they live in urban or rural areas?
+
 ● What is the average income of visitors?
+
 ● What level of education do they have?
+
 ● What is their marital or family status?
+
 ● What is their occupation?
+
 ● How many hours do they work per week?
+
 ● How often do they use the web?
+
 ● What kind of device do they use to access the web?
 
 **Target Audience: Companies**
 
 ● What is the size of the company or relevant department?
+
 ● What is the position of people in the company who visit your site?
+
 ● Will visitors be using the site for themselves or for someone else?
+
 ● How large is the budget they control?
 
 **Visual hierarchy**
@@ -225,6 +237,7 @@ Images create a high visual contrast and often attract the eye first. They can b
 The effect of a well-designed visual hierarchy is largely subliminal. Achieving a good hierarchy requires balance; if nothing stands out a site can be rather uninteresting, and if too many aspects are competing for your attention it can be hard to find the key messages. This example has a clear hierarchy which addresses the needs of visitors to the site.
 
 **Summary**
+
 PROCESS & Design
 
 - It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
