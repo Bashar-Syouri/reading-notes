@@ -150,14 +150,7 @@ inline elements.
 Examples of inline elements are 
 <a>, <b>, <em>, and <img>
 
-
-
-
-
------------------------------------
-
-
-
+---------
 
 ## - Chapter 18
 
@@ -186,6 +179,7 @@ professional sites
 
 
 **Who is the Site For?**
+
 Every website should be designed for the  target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
 
 It can be helpful to ask some questions about the people you would expect to be interested in the subject of your site.
@@ -194,9 +188,10 @@ If you ask a client who a site is for, it is not uncommon for them to answer "th
 Realistically, it is unlikely to berelevant to everyone. If your site sells light bulbs, even though most people using a computer 
 probably use light bulbs, they are not likely to order them from someone in a different country.
 
-Even if the site has a wide appeal, you can still think about the demographics of a sample of the target audience.
+Even if the site has a wide appeal, you can still think about the demographics of a sample of the target audience. 
 
- **Target Audience: individuals**
+  **Target Audience: individuals**
+
 ● What is the age range of your target audience?
 ● Will your site appeal to more women or men? What is the mix?
 ● Which country do your visitors live in?
@@ -210,6 +205,7 @@ Even if the site has a wide appeal, you can still think about the demographics o
 ● What kind of device do they use to access the web?
 
 **Target Audience: Companies**
+
 ● What is the size of the company or relevant department?
 ● What is the position of people in the company who visit your site?
 ● Will visitors be using the site for themselves or for someone else?
@@ -253,9 +249,8 @@ PROCESS & Design
 
 
 
----------------------------------------
 
-**&rdquo;To Learn More Visit  (https://wtf.tw/ref/duckett.pdf) &rdquo;**
+**To Learn More Visit  (https://wtf.tw/ref/duckett.pdf)**
 
 
 
