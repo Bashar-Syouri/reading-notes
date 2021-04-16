@@ -49,17 +49,16 @@ Tags act like containers. They tell you something about the information that lie
 
  - Opening Tag <P>
 
-   - The characters in the brackets 
-indicate the tag's purpose. 
-   - For example, in the tags above 
-the p stands for paragraph.
-  - The closing tag has a forward 
+   - The characters in the brackets indicate the tag's purpose. 
+   - For example, in the tags above the p stands for paragraph.
+
+- The closing tag has a forward 
 slash after the the < symbol.
 
 
 - Closing Tag </P>
   
-   - The terms "tag" and "element" 
+  - The terms "tag" and "element" 
 are often used interchangeably.
 
   - Strictly speaking, however, an element comprises the opening.
@@ -82,15 +81,15 @@ Attributes provide additional information about the contents of an element. They
 
 #  Body, Head & Title 
 ![body, head & title](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/07/html-images-df.jpg)
-## <body> 
-You met the <body> element in the first example we created. Everything inside this element is shown inside the main browser window.
+## < body > 
+You met the < body > element in the first example we created. Everything inside this element is shown inside the main browser window.
 
 
 
- ## <head> 
+ ## < head > 
  Before the < body > element you will often see a < head > element. This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a < title > element inside the < head > element.
 
-## <title> 
+## < title > 
 The contents of the < title > element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
 
 -----------------------------------
