@@ -184,7 +184,7 @@ probably use light bulbs, they are not likely to order them from someone in a di
 
 Even if the site has a wide appeal, you can still think about the demographics of a sample of the target audience. 
 
-  **Target Audience: individuals**
+**Target Audience: individuals**
 
 ● What is the age range of your target audience?
 ● Will your site appeal to more women or men? What is the mix?
@@ -230,21 +230,19 @@ PROCESS & Design
 
 - It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
 
- - Site maps allow you to plan the structure of a site.
+- Site maps allow you to plan the structure of a site.
 
 - Wireframes allow you to organize the information that will need to go on each page.
 
 - Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
 
 - You can differentiate between pieces of information using size, color, and style. 
- 
 
- - You can use grouping and similarity to help simplify the information you present.
-
+- You can use grouping and similarity to help simplify the information you present.
 
 
 
-**To Learn More Visit  (https://wtf.tw/ref/duckett.pdf)**
+**To Learn More Visit** [Link](https://wtf.tw/ref/duckett.pdf)
 
 
 
