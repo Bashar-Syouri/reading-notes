@@ -68,7 +68,7 @@ are often used interchangeably.
 - tag and the closing tag and any  content that lies between them.
 
 
-### Attributes Tell Us More About Elements ###
+### Attributes Tell Us More About Elements
 
 Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
 
@@ -115,7 +115,7 @@ The contents of the < title > element are either shown in the top of the browser
 
   - Global attributes, which are attributes that can be used on any element, including the class and id attributes 
 
- -Elements that are used to group together parts of the page where no other element is suitable
+ - Elements that are used to group together parts of the page where no other element is suitable
 
 - How to embed a page within a page using iframes
 
@@ -129,17 +129,17 @@ symbols
 
 ![block and inline elements](https://ictacademy.com.ng/wp-content/uploads/2017/10/inline-block-and-positioning-in-css-4-638.jpg)
 
-** Block Elements **
+**Block Elements**
 
 Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
 
 Examples of block elements are 
 <h1>, <p>, <ul>, and <li>
 
+---------
 
-******
 
-** Inline Elements **
+**Inline Elements**
 
 Some elements will always 
 appear to continue on the 
@@ -255,7 +255,7 @@ PROCESS & Design
 
 ---------------------------------------
 
-** &rdquo;To Learn More Visit  (https://wtf.tw/ref/duckett.pdf) &rdquo; **
+**&rdquo;To Learn More Visit  (https://wtf.tw/ref/duckett.pdf) &rdquo;**
 
 
 
