@@ -19,7 +19,7 @@ This is known as a **Function declaration**
 
 You declare a function using the function keyword.
 
-You gicing the function a name (somettimes calles in identifier) followed by parentheses.
+You give the function a name (somettimes calles in identifier) followed by parentheses.
 
 The statements that perform the task sit in a code block. (they are inside curly braces.)
 
@@ -40,4 +40,7 @@ You can call the same function as many times as you want within the same JavaScr
 
 
 ![](https://cdn.programiz.com/sites/tutorial2program/files/javascript-recursion.png)
+
+
+To learn more visit [Link](http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/JavaScript-and-JQuery-Interactive-Front-End-Web-Development-Introduction.pdf)
 
