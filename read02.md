@@ -100,7 +100,7 @@ You can also download Git by visiting this link and following the posted directi
 
 A third option is to install Git as part of the GitHub for Mac install. GitHub is repository hosting service, which we will discuss in a future section.
 
-Download GitHub for Mac via the following : 
+Download GitHub for Mac via the following: 
 
 [Link](http://mac.github.com)
 
