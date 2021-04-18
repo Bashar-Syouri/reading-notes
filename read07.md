@@ -118,22 +118,21 @@ INTRODUCING CSS
 This example uses two documents: the HTML file (example.html) and a separate CSS file (example.css). The fifth line of HTML uses the < link > element to indicate where the CSS file is located.
 
 
-On the next page, you will see how CSS rules can also be placed in your HTML pages and we will discuss when you might want to do this.
+On the next page, you will see how CSS rules can also be placed in your HTML pages and we will discuss when you might want to do this. 
 
 
-
- < !DOCTYPE html >
- < html >
+< !DOCTYPE html > 
+< html >
 < head >
- < title >Introducing CSS< /title >
- < link href="css/example.css" type="text/css"  rel="stylesheet" / >
+< title >Introducing CSS< /title > 
+< link href="css/example.css" type="text/css"  rel="stylesheet" / >
 < /head >
 < body >
- < h 1>From Garden to Plate<  /h1 >
- < p >A < i >potager< /i > is a French term for an ornamental vegetable or kitchen garden ... < /p >
- < h2 >What to Plant< /h2 >
- < p >Plants are chosen as much for their functionality 
- as for their color and form ... < /p >
+< h 1>From Garden to Plate<  /h1 >
+< p >A < i >potager< /i > is a French term for an ornamental vegetable or kitchen garden ... < /p >
+< h2 >What to Plant< /h2 >
+< p >Plants are chosen as much for their functionality 
+as for their color and form ... < /p >
 < /body >
 < /html >
 
