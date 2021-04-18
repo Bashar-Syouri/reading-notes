@@ -145,4 +145,5 @@ color: #665544; }
 
 
 
-To learn more about visit **Introducing CSS** [Link](https://wtf.tw/ref/duckett.pdf)
+To learn more about visit 
+ [**Chapter 10 - Introducing CSS** &   **Chapter 11 - Color**](https://wtf.tw/ref/duckett.pdf)
