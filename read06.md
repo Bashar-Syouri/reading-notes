@@ -48,7 +48,7 @@ And the following declares a function named add() that accepts two parameters:
 function add(a, b) {
   
 }
-###### Code language: JavaScript (javascript)
+Code language: JavaScript (javascript)
 
 
 Inside the function body, you can implement the logic. For example, the following say() function simply shows a message to the console:
@@ -57,7 +57,7 @@ function say(message) {
   
   console . log( message );
 }
-###### Code language: JavaScript (javascript)
+Code language: JavaScript (javascript)
 
 
 In the body of the say() function, we call the console.log() function to output a message to the console.
