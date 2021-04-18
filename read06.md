@@ -14,50 +14,30 @@
 
 **Declaring functions**
 
-To declare a function, you use the function keyword, followed by the function name, a list of parameters, and the function body as follows:
+To create a Function, you give it a name and then write the statements needed to achieve its task inside the curly braces.
+This is known as a **Function declaration**
 
-function functionName(parameters) {
-   Gunction body
-    
-}
-###### Code language: JavaScript (javascript)
+You declare a function using the function keyword.
 
-The function name must be a valid JavaScript identifier. By convention, the function name should start with a verb like getData(), fetchContents( ), or isValid( ).
+You gicing the function a name (somettimes calles in identifier) followed by parentheses.
 
-A function can accept zero, one, or multiple parameters. If there are multiple parameters, you need to separate them by commas (,).
-
-The following declares a function named say() that accepts no parameter:
-
-function say() {
-  
-}
-###### Code language: JavaScript (javascript)
+The statements that perform the task sit in a code block. (they are inside curly braces.)
 
 
-The following declares a function named square() that accepts one parameter:
-
-function square(a) {
-  
-
-}
-###### Code language: JavaScript (javascript)
+![declaration function](https://tutorial.techaltum.com/images/javascript-functions.jpg)
 
 
-And the following declares a function named add() that accepts two parameters:
+**Calling Function**
 
-function add(a, b) {
-  
-}
-Code language: JavaScript (javascript)
+Having declared the function, you can thenn execute all of the statements between its curly braves with just one line of code.
+This is known as **calling the function.**
 
+To run the code in the function, you use the function name folloed by parentheses.
 
-Inside the function body, you can implement the logic. For example, the following say() function simply shows a message to the console:
+In programmer-speak, you would say that this code calls a function.
 
-function say(message) {
-  
-  console . log( message );
-}
-Code language: JavaScript (javascript)
+You can call the same function as many times as you want within the same JavaScript file.
 
 
-In the body of the say() function, we call the console.log() function to output a message to the console.
+![](https://cdn.programiz.com/sites/tutorial2program/files/javascript-recursion.png)
+
