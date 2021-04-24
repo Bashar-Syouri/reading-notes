@@ -17,6 +17,8 @@
 |  read06 |[link](https://bashar-syouri.github.io/reading-notes/read06)   |
 |  read07 |[link](https://bashar-syouri.github.io/reading-notes/read07)   |
 |  read09 |[link](https://bashar-syouri.github.io/reading-notes/read09)   |
+|  Class-01 |[link](https://bashar-syouri.github.io/reading-notes/Class-01)   |
+
 
 ![Growth Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 
