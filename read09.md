@@ -13,10 +13,10 @@
 **A text editor** is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site. The text editor has to be one of the most important tools you can use as an aspiring web developer.
 
 What features should you look for in a text editor? I would say some of the most important features are: 
-- 1. Code completion; 
-- 2. Syntax highlighting;
-- 3. A nice variety of themes (to reduce eye strain and fatigue); and
-- 4. The ability to choose from a healthy selection of extensions available when you need them. 
+-  Code completion; 
+-  Syntax highlighting;
+-  A nice variety of themes (to reduce eye strain and fatigue); and
+-  The ability to choose from a healthy selection of extensions available when you need them. 
 
 You might find some other features that are must-have’s, but I think these features are a good start.
 
